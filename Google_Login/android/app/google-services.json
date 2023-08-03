@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391318788593",
+    "project_id": "login-cdcbf",
+    "storage_bucket": "login-cdcbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391318788593:android:7cd2d414b31e89d0b08c50",
+        "android_client_info": {
+          "package_name": "com.google_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391318788593-svteohb0594m9ko5ev3pc4igojn0ap30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google_login",
+            "certificate_hash": "853f8663aab3169949be8f41d5df0437f2c821a9"
+          }
+        },
+        {
+          "client_id": "391318788593-ar8vf96aoj4vcpnlsplrrkfbpunq3v08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBB055sc3-3Vuy5cpH14pQ84b3f4ti-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391318788593-ar8vf96aoj4vcpnlsplrrkfbpunq3v08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
